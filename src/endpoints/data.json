@@ -1,0 +1,98 @@
+{
+    "en": {
+        "header": {
+            "langDropdown": [
+                {
+                    "lang": "Spain",
+                    "context": "Click will open Spain",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_spain_2016_320_200.svg"
+                },
+                {
+                    "lang": "China",
+                    "context": "Click will open China",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_china_2016_320_200.svg"
+                },
+                {
+                    "lang": "England",
+                    "context": "Click will open England",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_england_2016_320_200.svg"
+                },
+                {
+                    "lang": "France",
+                    "context": "Click will open France",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_france_2016_320_200.svg"
+                },
+                {
+                    "lang": "Germany",
+                    "context": "Click will open Germany",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_germany_2016_320_200.svg"
+                },
+                {
+                    "lang": "India",
+                    "context": "Click will open India",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_india_2016_320_200.svg"
+                },
+                {
+                    "lang": "Italy",
+                    "context": "Click will open Iyaly",
+                    "img": "http://dog.dbrqx.com/index2/img/flags/brqx_flag_italy_2016_320_200.svg"
+                }
+            ]
+        },
+        "main": {},
+        "mainLinks": [
+            {
+                "link": "Fashion",
+                "src": "#"
+            },
+            {
+                "link": "Dream",
+                "src": "#"
+            },
+            {
+                "link": "Chat",
+                "src": "#"
+            },
+            {
+                "link": "Links",
+                "src": "#"
+            },
+            {
+                "link": "Live",
+                "src": "#"
+            },
+            {
+                "link": "Drupal",
+                "src": "#"
+            }
+        ],
+        "bottomMenu": [
+            {
+                "link": "Fashion",
+                "src": "#"
+            },
+            {
+                "link": "Dream",
+                "src": "#"
+            },
+            {
+                "link": "Chat",
+                "src": "#"
+            },
+            {
+                "link": "Links",
+                "src": "#"
+            },
+            {
+                "link": "Live",
+                "src": "#"
+            },
+            {
+                "link": "Drupal",
+                "src": "#"
+            }
+        ]
+    },
+    "images":{},
+    "photos": {}
+}

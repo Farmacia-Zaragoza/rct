@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.divider {
+	height: 30px;
+}
+.subHeading {
+	text-decoration: underline;
+}
+.cell {
+	border: 1px solid black;
+}
+.boldCell {
+	font-weight: 800;
+}
+.text-center {
+	text-align: center;
+}
+.yellowbg {
+	background-color: #FFFACD;
+}
+.bluebg{
+	background-color: #8470FF;
+}

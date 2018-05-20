@@ -1,0 +1,15 @@
+.dropdown {
+    padding-top: 10px;
+}
+
+.dropdown-menu{
+    width: 100%;
+    top: 95%;
+}
+.langFlag {
+    height: 40px;
+    width: 60px;
+}
+.countryName {
+    color: goldenrod;
+}

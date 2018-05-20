@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "rct-reactjs",
+    "default": "rct-reactjs"
+  }
+}

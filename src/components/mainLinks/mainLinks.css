@@ -1,0 +1,46 @@
+.mainLinks{
+    height: auto;
+    padding: 10px 0 10px 0;
+    background-color: #483D8B;
+    color: chocolate;
+    overflow: hidden;
+}
+.linkItem {
+    text-align: center;
+    text-decoration: none;
+    line-height: 75px;
+    font-size: 42px;
+    cursor: pointer;
+    margin-right: 100px;
+}
+.linkItem:hover {
+    color: wheat;
+}
+.right_arrow{
+    width: 25%;
+    height: auto;
+    float: left;
+}
+.left_arrow{
+    width: 25%;
+    height: auto;
+    float: left;
+}
+.right_arrow img{
+    cursor: pointer;
+    height: auto;
+    float: right;
+}
+.left_arrow img{
+    cursor: pointer;
+    height: auto;
+}
+.mainLinks_marque {
+    position: relative;
+    left: 0px;
+}
+.marque_holder {
+    float: left;
+    overflow: hidden;
+    width: 50%;
+}
