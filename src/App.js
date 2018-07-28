@@ -1,3 +1,4 @@
+//RCT DEV v.0.0.0 (29.07.18)
 import React, { Component } from 'react';
 import './App.css';
 
